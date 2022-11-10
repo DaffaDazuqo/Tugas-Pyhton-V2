@@ -1,6 +1,6 @@
 Name = "Muhammad Daffa adillah,"
 Kelas = "11-TKJ,"
-Title = "Tugas Phyton,"
+Title = "Tugas Phyton"
 print (Name,Kelas,Title)
 
 #Soal 1: Perbedaan Data Structure
