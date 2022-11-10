@@ -76,9 +76,9 @@ print (europe)
 #- Berikan contoh gabungan multiple comparison menggunkan Boolean Comparisin 'or'
 #- Berikan contoh gabungan multiple comparison menggunkan Boolean Comparisin 'not'
 
-a = ("abcd"=="abcd")
-b = ("abcd"=="bcd")
-c = ("cbd"=="cbd")
+a = ("sama"=="sama")
+b = ("sama"=="beda")
+c = ("beda"=="beda")
  
 if (a and b and c):
     print ("benar")
